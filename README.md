@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--# Hi there 👋, I'm Manan Patel  
+
+ 👋, I'm Manan Patel  
 
 💻 **Aspiring Machine Learning Engineer | Python Enthusiast | Data Explorer**
 
 ---
 
-### 🚀 About Me
+ 🚀 About Me
 - 🎓 Completed **BCA (2023)** from Navgujarat College of Computer Applications  
 - 🌱 Currently learning **Machine Learning, Data Science & Deep Learning** &gan ai
 - 🔭 Exploring **NLP projects** and **Computer Vision applications**  

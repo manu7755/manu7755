@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**manu7755/manu7755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi there 👋, I'm Manan Patel  
 
-Here are some ideas to get you started:
+💻 **Aspiring Machine Learning Engineer | Python Enthusiast | Data Explorer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Completed **BCA (2023)** from Navgujarat College of Computer Applications  
+- 🌱 Currently learning **Machine Learning, Data Science & Deep Learning** &gan ai
+- 🔭 Exploring **NLP projects** and **Computer Vision applications**  
+- 👨‍💻 Passionate about building projects in Python and ML  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV,tensorflow
+- **Web Scraping:** BeautifulSoup, Selenium  
+- **Other Tools:** Git, GitHub, Jupyter, VS Code  
+
+---
+
+### 📊 Projects
+Next-word-predictor
+Financial-sentiment-analysis
+movie-recommender
+face-attendance-system
+
+
+📫 Connect With Me
+📧 Email: pmanan2105@gmail.com 
+💼 [LinkedIn](https://www.linkedin.com/in/manan-patel-594685354/) 
+
+
+---
+
+⭐️ From [manu7755](https://github.com/manu7755)
+
+
+
+
